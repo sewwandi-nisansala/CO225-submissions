@@ -1,0 +1,7 @@
+accuracy = 0.1(speed)
+time want accurate for the last second.
+every second i can update
+calory ~ distance runnng and .....
+buttton is easy to accessible ?????
+(clean coding and acuuracy will be given marks)
+layout what kind of objects need-----encapsulation,  -----
